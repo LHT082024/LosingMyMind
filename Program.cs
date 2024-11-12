@@ -19,6 +19,5 @@ class Program
         Console.WriteLine(genericClass.Christine);
         Console.WriteLine($"lovers {genericClass.lovers}");
         Console.WriteLine($"their collective iq {genericClass.Iq}");
-
     }
 }
