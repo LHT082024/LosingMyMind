@@ -7,11 +7,11 @@ class Program
 
     static void Main(string[] args)
     {
-        GenericClass<string, string, string> genericClass = new GenericClass<string, string, string>();
+        GenericClass<string, string, double> genericClass = new GenericClass<string, string, double>();
         genericClass.Phantom = "If you dont love me everyone DIES!!!!";
         genericClass.Raoul = "HOW DARE YOU SPEAK TO ANOTHER MAN!";
-        genericClass.Christine = "Are we sure this is a romance?";
-        genericClass.lovers = 3;
+        genericClass.Christine = 8.8;
+        genericClass.lovers = 2;
         genericClass.Iq = 2.5;
 
         Console.WriteLine(genericClass.Phantom);
