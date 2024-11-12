@@ -11,5 +11,9 @@ namespace LosingMyMind.Classes
         public U? Raoul;
         public I? Christine;
 
+        public int lovers;
+
+        public double Iq;
+
     }
 }
