@@ -1,0 +1,15 @@
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\bin\Debug\net8.0\LosingMyMind.exe
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\bin\Debug\net8.0\LosingMyMind.deps.json
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\bin\Debug\net8.0\LosingMyMind.runtimeconfig.json
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\bin\Debug\net8.0\LosingMyMind.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\bin\Debug\net8.0\LosingMyMind.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.AssemblyInfoInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.AssemblyInfo.cs
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.sourcelink.json
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\refint\LosingMyMind.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\LosingMyMind.genruntimeconfig.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\LosingMyMind\obj\Debug\net8.0\ref\LosingMyMind.dll

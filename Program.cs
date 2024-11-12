@@ -1,9 +1,12 @@
-﻿namespace LosingMyMind;
+﻿namespace LosingMyMind.Classes;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        ImplimentingClass implimentingClass = new ImplimentingClass();
+
+
+        implimentingClass.WriteGenericMethod();
     }
 }
