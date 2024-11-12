@@ -7,20 +7,18 @@ namespace LosingMyMind.Classes
 {
     public class ImplimentingClass
     {
-        GenericClass<string, string, string> genericClass = new GenericClass<string, string, string>();
+        public GenericClass<string, string, string> genericClass;
 
-        public void ImplimentationMethod()
+        public void ImplimentationMethod(GenericClass<string, string, string> genericClass)
         {
-            genericClass.Phantom = "If you dont love me everyone DIES!!!!";
-            genericClass.Raoul = "HOW DARE YOU SPEAK TO ANOTHER MAN!";
-            genericClass.Christine = "Are we sure this is a romance?";
+            genericClass.Phantom =
+            genericClass.Raoul =
+            genericClass.Christine =
         }
 
-        public void WriteGenericMethod()
+        public string WriteGenericMethod()
         {
-            Console.WriteLine(genericClass.Phantom);
-            Console.WriteLine(genericClass.Raoul);
-            Console.WriteLine(genericClass.Christine);
+            return genericClass.Phantom;
         }
 
 
