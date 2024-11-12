@@ -11,8 +11,7 @@ namespace LosingMyMind.Classes
 
         public void WriteMethod()
         {
-            string phantom = "If you dont love me everyone DIES!!!!";
-            genericClass.Phantom = phantom;
+            genericClass.Phantom = "If you dont love me everyone DIES!!!!";
             genericClass.Raoul = "HOW DARE YOU SPEAK TO ANOTHER MAN!";
             genericClass.Christine = "Are we sure this is a romance?";
         }

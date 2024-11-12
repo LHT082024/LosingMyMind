@@ -7,7 +7,7 @@ namespace LosingMyMind.Classes
 {
     public class GenericClass<T, U, I>
     {
-        public T? Phantom { get; set; }
+        public T? Phantom;
         public U? Raoul;
         public I? Christine;
 
