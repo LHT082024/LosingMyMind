@@ -6,7 +6,6 @@ class Program
     {
         ImplimentingClass implimentingClass = new ImplimentingClass();
 
-
-        implimentingClass.WriteGenericMethod();
+        implimentingClass.WriteMethod();
     }
 }
